@@ -6,7 +6,10 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 public class Application {
-    public static void main(String[] args) {
+
+    public static void main(String[] args)
+    {
         SpringApplication.run(Application.class, args);
+        //todo properties에 server none 등 되도록 코딩에정
     }
 }
