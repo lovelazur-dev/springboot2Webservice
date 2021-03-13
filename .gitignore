@@ -5,5 +5,6 @@ build
 out
 application-real-oauth.properties
 application-test-properties
+application-real-db.properties
 
 #테스트 ...
