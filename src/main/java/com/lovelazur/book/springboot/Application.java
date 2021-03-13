@@ -11,6 +11,5 @@ public class Application {
     {
         SpringApplication.run(Application.class, args);
         //todo properties에 server none 등 되도록 코딩에정
-        //todo test
     }
 }
